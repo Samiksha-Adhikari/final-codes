@@ -1,6 +1,5 @@
 1                 tas                   7
-5            samiksha            Rs.90000
-6               Scott             Rs.9000
-1                sami               98000
+5            samiksha                90000
+6               Scott                 9000
 09                 sam                 988
 11              samiik                 550
